@@ -7,8 +7,8 @@
 
 -- ============== LINKS (edit these to your own) ==============
 local LINKS = {
-	Discord = "",
-	YouTube = "",
+	Discord = "https://discord.gg/mZRFmmQ3R",
+	YouTube = "https://www.youtube.com/@RFLYoda",
 	Script = "",
 	RobloxGroup = "",
 }
